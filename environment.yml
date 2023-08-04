@@ -1,0 +1,11 @@
+name: s1-browse
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - sarsen
+  - hyp3lib
+  - asf_tools
+  - gdal
+  - dask
